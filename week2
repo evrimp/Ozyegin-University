@@ -1,0 +1,21 @@
+size(640, 480);
+ 
+int x1 = 0;
+int y1 = 0;
+int w1 = 100;
+int h1 = 100;
+
+//println("Hello World");
+//println("Hello World 2");
+
+println("w: " + width);
+println("h: " + height);
+
+rect(0,0,100,100);
+rect(width/2-35,height*0.5-35,70,70); 
+rect(440,0,200,100);
+rect(570,410,70,70);
+rect(0,435,240,45);
+
+
+
