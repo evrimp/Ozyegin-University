@@ -1,0 +1,24 @@
+size(601,600);
+
+background(0);
+
+fill(#761908);
+//sağ üst 
+rect(156,0,601,430);
+//sol üst
+fill(245);
+rect(0, 0, 140, 180);
+//sol alt
+fill(#151D52);
+rect(0,444,140,601);
+//alt orta 
+fill(245);
+rect(156,444,397,500);
+//sağ en alt
+fill(#F5C823);
+rect(562,530,80,71);
+//sağ en altın üstü
+fill(245);
+rect(562,444,530,68);
+//sol orta 
+rect(0,203,140,225);
